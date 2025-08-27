@@ -1,1 +1,3 @@
 # Educational-Organisation-Using-ServiceNow
+
+This update set is designed to support an Educational Organisation by digitizing and streamlining academic and administrative processes within ServiceNow. It includes configurations and customizations to manage student information, faculty records, course registrations, examination scheduling, attendance tracking, and service requests related to IT and campus facilities. The solution improves efficiency by automating workflows such as student onboarding, grievance redressal, and support requests. It also enhances visibility through dashboards and reporting, enabling administrators to monitor academic performance, resource utilization, and service delivery in real time.
